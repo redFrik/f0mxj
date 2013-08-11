@@ -13,6 +13,12 @@ download&install
 
 the helpfile(s) can go anywhere in your max searchpath.
 
+(optional) recompile
+--------------------
+* start max and make a new object called **mxj quickie f0.pdu** (or whichever class you'd like to build).
+* double click the object and a java code window should appear.
+* select compile window (cmd+k) and click compile
+
 todo
 ----
 * buf
